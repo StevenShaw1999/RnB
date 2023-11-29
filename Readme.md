@@ -6,8 +6,8 @@
 
 Run the following command to set up the environment:
 ```buildoutcfg
-conda create -n layout-guidance python=3.8
-conda activate layout-guidance
+conda create -n RnB python=3.8
+conda activate RnB
 pip install -r requirements.txt
 ```
 
